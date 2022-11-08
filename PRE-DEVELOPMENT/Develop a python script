@@ -1,1 +1,30 @@
+a=int (input("Enter number 1: ))
 
+b=int (input ("Enter number 2:")) =
+
+Sum = a + b
+
+print ("SUM = ",+sum)
+
+
+
+
+
+
+
+
+
+
+
+
+Python 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit ( AMD64)] on win32
+
+Type "help", "copyright", "credits" or "license ()" for more information.
+
+>>> print("Hello world") Hello world
+
+======= RESTART:        C:/Users/logha/Documents/Python/Sum.py
+
+Enter number 1:5
+
+Enter number 2:10 SUM = 15
